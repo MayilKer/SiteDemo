@@ -1,0 +1,203 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+ 
+
+
+
+header{
+    background-color: #1E1D23;
+    padding: 25px 3rem;
+    
+}
+
+.logo img{
+    width: 150px;
+    float: left;
+}
+
+.triple{
+    padding-bottom: 20px;
+    padding-right: 30px;
+}
+
+.triple a{
+    color: white;
+    float: right;
+    font-size: 1.2rem;
+    margin-left: 35px;
+}
+.section1{
+    padding: 20rem 0;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.word h2{
+    font-size: 36px;
+}
+.word h1{
+    font-size: 72px;
+    padding-bottom: 50px;
+}
+
+
+
+.btn a{
+    color: white;
+    background-color: #FFC800;
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 25px 50px;
+    font-size: 20px;
+    
+}
+
+.Service{
+    padding: 5rem 0;
+    text-align: center;
+}
+
+.Service .text h2{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.Service .text h3{
+    color: grey;
+    margin-bottom: 3rem;
+}
+
+
+.icons .box{
+    width: 33%;
+    float: left;
+    margin-bottom: 5rem;
+}
+
+.box h4{
+    font-size: 23px;
+    letter-spacing: 1px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.box p{
+    color: grey;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.clear{
+    clear: both;
+}
+
+.goods{
+    text-align: center;
+    background-color: #F8F9FA;
+}
+
+.soz h2{
+    background-color: #F8F9FA;
+    font-size: 40px;
+}
+
+.soz h3{
+    color: grey;
+}
+
+
+.tools .boxes{
+    width: 33%;
+    float: left;
+    padding: 30px 0;
+    
+    background-color: #F8F9FA;
+}
+
+.boxes img{
+    width: 90%;
+    transition: 0.7s;
+}
+
+.boxes h3{
+    font-size: 24px;
+
+}
+
+.boxes h4{
+    color: grey;
+}
+
+.boxes:hover img{
+    filter:grayscale(100%);
+    
+}
+
+.circle{
+    border-radius: 100%;
+    border: 10px solid grey;
+   width: 40%;
+}
+.finaly{
+    text-align: center;
+    background-color: #F8F9FA;
+}
+
+.humans .face{
+    width: 33%;
+    float: left;
+    
+}
+
+.finaly .texz h2{
+    font-size: 40px;
+    
+}
+
+.texz h3{
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 45px;
+}
+
+.face h4{
+    font-size: 24px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.face p{
+    color: grey;
+    margin-bottom: 40px;
+}
+
+.salsa{
+    color: grey;
+    padding-bottom: 55px;
+}
+
+.last{
+    padding: 50px 50px;
+}
+
+.last .brands{
+    float: left;
+    width: 25%;   
+}
+
+.clear2{
+    clear: both;
+}
+
+.brands img{
+    width: 50%;
+}
+
